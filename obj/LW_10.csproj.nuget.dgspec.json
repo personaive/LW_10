@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Иван\\Desktop\\github\\LW_10\\LW_10.csproj": {}
+    "C:\\Users\\Иван\\Desktop\\LW_10\\LW_10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Иван\\Desktop\\github\\LW_10\\LW_10.csproj": {
+    "C:\\Users\\Иван\\Desktop\\LW_10\\LW_10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Иван\\Desktop\\github\\LW_10\\LW_10.csproj",
+        "projectUniqueName": "C:\\Users\\Иван\\Desktop\\LW_10\\LW_10.csproj",
         "projectName": "LW_10",
-        "projectPath": "C:\\Users\\Иван\\Desktop\\github\\LW_10\\LW_10.csproj",
+        "projectPath": "C:\\Users\\Иван\\Desktop\\LW_10\\LW_10.csproj",
         "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Иван\\Desktop\\github\\LW_10\\obj\\",
+        "outputPath": "C:\\Users\\Иван\\Desktop\\LW_10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config",
