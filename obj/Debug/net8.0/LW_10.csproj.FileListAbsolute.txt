@@ -1,0 +1,14 @@
+C:\Users\Иван\Desktop\LW_10\bin\Debug\net8.0\LW_10.exe
+C:\Users\Иван\Desktop\LW_10\bin\Debug\net8.0\LW_10.deps.json
+C:\Users\Иван\Desktop\LW_10\bin\Debug\net8.0\LW_10.runtimeconfig.json
+C:\Users\Иван\Desktop\LW_10\bin\Debug\net8.0\LW_10.dll
+C:\Users\Иван\Desktop\LW_10\bin\Debug\net8.0\LW_10.pdb
+C:\Users\Иван\Desktop\LW_10\obj\Debug\net8.0\LW_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\LW_10\obj\Debug\net8.0\LW_10.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\LW_10\obj\Debug\net8.0\LW_10.AssemblyInfo.cs
+C:\Users\Иван\Desktop\LW_10\obj\Debug\net8.0\LW_10.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\LW_10\obj\Debug\net8.0\LW_10.dll
+C:\Users\Иван\Desktop\LW_10\obj\Debug\net8.0\refint\LW_10.dll
+C:\Users\Иван\Desktop\LW_10\obj\Debug\net8.0\LW_10.pdb
+C:\Users\Иван\Desktop\LW_10\obj\Debug\net8.0\LW_10.genruntimeconfig.cache
+C:\Users\Иван\Desktop\LW_10\obj\Debug\net8.0\ref\LW_10.dll
